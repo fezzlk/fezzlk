@@ -10,6 +10,9 @@
 - AtCoder
   - ABC212参加
   - ABC213参加
+- kaggle
+  - Titanic
+    - 0.77751
 - その他
   - じぶんリリースノート作成
 
