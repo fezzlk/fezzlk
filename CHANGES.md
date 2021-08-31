@@ -34,6 +34,8 @@
     - 0.77751
   - House Price
     - 0.30289
+- discographs
+  - re-launch
 - その他
   - じぶんリリースノート作成
   - Rust tutorial (-> fezzlkcli)
