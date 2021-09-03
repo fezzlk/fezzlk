@@ -1,14 +1,40 @@
 # To Do
+- mahjong-manager
+  - アーキテクチャ刷新してmasterマージ
+  - テストコード書く
+  - ocr機能修正
+  - 各種機能開発
+  - api作成(gRPC)
 - AtCoder
   - 目指せ茶コーダー
+  - グラフをコードで再現する練習
+  - 探索アルゴリズムを実践
+  - DP問題を解く
 - mini-coder
   - レイアウト通りの実装
-  - 技術再選定
+  - webアプリとして再始動
 - Simple-Alert-LINE-Bot
   - スタートアップアンズオンの準備、実施
   - 指定時刻発火のメッセージ送信
+- webev
+  - ブックマークインポート機能
+  - ページにタイトルをつけられる
 
 # CHANGES
+## 2021.09
+- webev
+- mahjong-manager
+  - アーキテクチャ刷新
+- discographs
+- mini-coder
+- Simple-Alert-LINE-Bot
+- AtCoder
+- kaggle
+- その他
+
+### 成果
+- クリーン風アーキテクチャ実装
+
 ## 2021.08
 ### 着手したタスク
 - webev
@@ -36,14 +62,16 @@
   - House Price
     - 0.30289
 - discographs
-  - re-launch
+  - React + TS + Next.js + go で re-launch
+- fezzlkcli
+  - launch
 - その他
   - じぶんリリースノート作成
   - Rust tutorial (-> fezzlkcli)
 
 ### 成果
 - クリーンアーキテクチャのイメージを掴んだ
-- AtCoder Rating: 308
+- AtCoder Rating: 361
 - Simple-Alert-LINE-Bot の新規参加者用のタスク作成
 - kaggle データの簡易的な準備
 
@@ -51,11 +79,16 @@
 ## 2021.
 - webev
 - mahjong-manager
+- discographs
 - mini-coder
 - Simple-Alert-LINE-Bot
 - AtCoder
 - kaggle
 - その他
+
+### 成果
+- 
+
 
 ## Icons
 - :bug:: `:bug:` バグ修正
