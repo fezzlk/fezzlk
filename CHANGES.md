@@ -23,12 +23,14 @@
 # CHANGES
 ## 2021.09
 - webev
+  - ページタイトル編集機能実装
 - mahjong-manager
   - アーキテクチャ刷新
 - discographs
 - mini-coder
 - Simple-Alert-LINE-Bot
 - AtCoder
+　　- ABC217参加
 - kaggle
 - その他
 
