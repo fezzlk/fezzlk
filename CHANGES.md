@@ -1,14 +1,13 @@
 # To Do
 - mahjong-manager
-  - アーキテクチャ刷新してmasterマージ
-  - テストコード書く
+  - アーキテクチャ刷新
+  - テストコード書いてmasterマージ
   - ocr機能修正
   - 各種機能開発
   - api作成
 - AtCoder
-  - 目指せ茶コーダー
   - グラフをコードで再現する練習
-  - 探索アルゴリズムを実践
+  - 探索アルゴリズムを実装
   - DP問題を解く
 - mini-coder
   - レイアウト通りの実装
@@ -28,14 +27,23 @@
   - アーキテクチャ刷新
 - discographs
 - mini-coder
+- fezzlkcli
+  - POST リクエストの送信
+- mini-coder
 - Simple-Alert-LINE-Bot
 - AtCoder
 　　- ABC217参加
+　　- ABC218参加
+　　- ABC219参加
 - kaggle
 - その他
+  - Xamarin でモバイルアプリ作成入門
+  - リーダブルコード ~12章
+  - ドメイン駆動設計入門 ~5章
 
 ### 成果
-- クリーン風アーキテクチャ実装
+- DDD風アーキテクチャ実装
+- AtCoder Rating: 413(入茶！！！）
 
 ## 2021.08
 ### 着手したタスク
@@ -83,6 +91,7 @@
 - mahjong-manager
 - discographs
 - mini-coder
+- fezzlkcli
 - Simple-Alert-LINE-Bot
 - AtCoder
 - kaggle
@@ -92,7 +101,7 @@
 - 
 
 
-## Icons
+# Icons
 - :bug:: `:bug:` バグ修正
 - :+1:: `:+1:` 機能改善
 - :sparkles:: `:sparkles:` 部分的な機能追加
