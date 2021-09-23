@@ -5,6 +5,7 @@
   - ocr機能修正
   - 各種機能開発
   - api作成
+  - semantic-ui 適用
 - AtCoder
   - グラフをコードで再現する練習
   - 探索アルゴリズムを実装
@@ -34,6 +35,7 @@
   - POST リクエストの送信
 - mini-coder
   - webアプリ(TS + Next.js + (Nest or express))で再始動
+  - taileind, material-ui 導入
 - Simple-Alert-LINE-Bot
 - AtCoder
 　　- ABC217参加
