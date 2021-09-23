@@ -25,13 +25,15 @@
 ## 2021.09
 - webev
   - ページタイトル編集機能実装
+  - ci上でテスト用DBに接続
 - mahjong-manager
   - アーキテクチャ刷新
+  - repository の単体テスト実装
 - discographs
-- mini-coder
 - fezzlkcli
   - POST リクエストの送信
 - mini-coder
+  - webアプリ(TS + Next.js + (Nest or express))で再始動
 - Simple-Alert-LINE-Bot
 - AtCoder
 　　- ABC217参加
@@ -41,10 +43,11 @@
 - その他
   - Xamarin でモバイルアプリ作成入門
   - リーダブルコード ~12章
-  - ドメイン駆動設計入門 ~5章
+  - ドメイン駆動設計入門 ~8章
 
 ### 成果
 - DDD風アーキテクチャ実装
+- repository の単体テスト実装完了
 - AtCoder Rating: 413(入茶！！！）
 
 ## 2021.08
@@ -74,7 +77,7 @@
   - House Price
     - 0.30289
 - discographs
-  - React + TS + Next.js + go で re-launch
+  - TS + Next.js + go で再始動
 - fezzlkcli
   - launch
 - その他
