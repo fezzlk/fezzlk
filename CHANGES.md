@@ -20,9 +20,25 @@
 - webev
   - ブックマークインポート機能
   - ページにタイトルをつけられる
-  - CI 上で DB を使用したテストの適用
 
 # CHANGES
+## 2021.10
+- webev
+- mahjong-manager
+  - usecase テスト実装
+  - v1 リリース
+- discographs
+- mini-coder
+- fezzlkcli
+- Simple-Alert-LINE-Bot
+- AtCoder
+  - ABC221
+- kaggle
+- その他
+
+### 成果
+- AtCoder Rating: 493
+
 ## 2021.09
 - webev
   - ページタイトル編集機能実装
