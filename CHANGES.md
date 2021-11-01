@@ -1,10 +1,9 @@
 # To Do
 - mahjong-manager
-  - アーキテクチャ刷新
-  - テストコード書いてmasterマージ
+  - テストコードを書き切る
   - ocr機能修正
   - 各種機能開発
-  - api作成
+  - api 作成
   - semantic-ui 適用
 - AtCoder
   - グラフをコードで再現する練習
@@ -17,18 +16,33 @@
 - Simple-Alert-LINE-Bot
   - スタートアップアンズオンの準備、実施
   - 指定時刻発火のメッセージ送信
+  - 食材管理機能実装
 - webev
   - ブックマークインポート機能
-  - ページにタイトルをつけられる
 
 # CHANGES
+## 2021.11
+- webev
+- mahjong-manager
+- discographs
+- mini-coder
+- fezzlkcli
+- Simple-Alert-LINE-Bot
+- AtCoder
+- kaggle
+- その他
+
+### 成果
+- 
+
 ## 2021.10
 - webev
 - mahjong-manager
-  - usecase テスト実装
+  - usecase, service テスト基盤実装
+  - Repository テスト実装
   - v1 リリース
-- discographs
 - mini-coder
+  - 基盤作成
 - fezzlkcli
 - Simple-Alert-LINE-Bot
 - AtCoder
@@ -38,6 +52,8 @@
 
 ### 成果
 - AtCoder Rating: 493
+- mahjang-manager ファーストリリース！
+  - Repository テスト実装完了
 
 ## 2021.09
 - webev
