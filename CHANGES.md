@@ -20,20 +20,27 @@
 - webev
   - ブックマークインポート機能
 
+
+# CHANGES
+## 2021.12
+- mahjong-manager
+- mini-coder
+- Simple-Alert-LINE-Bot
+  - stock 一覧画面レイアウト考案
+  - wiki 執筆
+  - ログイン機能
+  - LINE アカウント連携
+- その他
+ 
 # CHANGES
 ## 2021.11
-- webev
 - mahjong-manager
-- discographs
+  - テスト実装
 - mini-coder
-- fezzlkcli
+  - python 実行環境構築
 - Simple-Alert-LINE-Bot
-- AtCoder
-- kaggle
+  - アーキテクチャ刷新
 - その他
-
-### 成果
-- 
 
 ## 2021.10
 - webev
